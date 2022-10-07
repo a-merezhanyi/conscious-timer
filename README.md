@@ -8,8 +8,9 @@ Hit the button to start the timer. The ring bells every 5 minutes remembering to
 
 PWA supported, you can install this app to your Homescreen.
 
-coded by A. Merezhanyi<br>
-https://www.youtube.com/c/StyledJavaScript
+coded by A. Merezhanyi
+
+https://www.youtube.com/watch?v=Tthdf-VYszY&list=PLEZfD_aygfgK8dxEJ8kB1pysMBtXh1mG8
 
 ## Copyright Acknowledgements
 
