@@ -13,8 +13,6 @@ https://www.youtube.com/c/StyledJavaScript
 
 ## Copyright Acknowledgements
 
-Icons made by Freepik, https://www.flaticon.com/
-
-SVG background by Steve Schoger, https://www.heropatterns.com/
-
+Icons made by Freepik, https://www.flaticon.com/<br>
+SVG background by Steve Schoger, https://www.heropatterns.com/<br>
 An Asian singing bowl bell by AncientOracle, https://freesound.org/people/AncientOracle/sounds/476871/
